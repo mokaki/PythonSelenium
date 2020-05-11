@@ -20,3 +20,10 @@ Windows 使用 Python + Selenium 自動控制瀏覽器教學與範例
 
 
 ###### [1.4 安裝 Selenium](https://officeguide.cc/windows-python-selenium-automation-scripts-tutorial-examples/amp/)
+
+pip = cmd指令
+
+
+
+
+
