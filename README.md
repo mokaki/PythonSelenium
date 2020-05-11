@@ -2,7 +2,9 @@
 
 Windows 使用 Python + Selenium 自動控制瀏覽器教學與範例
 
+---
 
+# 1.安裝
 
 ###### 1.1 首先到 Python 的官方網站下載 Python 的安裝檔，點選頁面中的 Download > Windows
 <a href="https://www.python.org/downloads/windows/">
@@ -15,3 +17,6 @@ Windows 使用 Python + Selenium 自動控制瀏覽器教學與範例
 
 
 ###### [1.3 Windows 安裝 Python 程式開發環境教學](https://officeguide.cc/windows-python-development-environment-installation-tutorial-2019/)
+
+
+###### [1.4 安裝 Selenium](https://officeguide.cc/windows-python-selenium-automation-scripts-tutorial-examples/amp/)
